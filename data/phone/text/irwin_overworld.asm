@@ -2,9 +2,9 @@ IrwinAskNumber1Text:
 	text "You're the best"
 	line "I've ever battled!"
 
-	para "Huh? You're the"
-	line "one who saved all"
-	cont "the SLOWPOKE?"
+	para "Wait, you're the"
+	line "one who saved old"
+	cont "man KURT?"
 
 	para "Well, no wonder I"
 	line "couldn't beat you!"
@@ -23,14 +23,14 @@ IrwinAskNumber2Text:
 	done
 
 IrwinNumberAcceptedText:
-	text "Wow! Gee, thanks!"
+	text "Cool, thank you!"
 	line "Now I can call you"
 
-	para "anytime, whether"
-	line "anything's up or"
+	para "when I hear about"
+	line "something big! I"
 
-	para "not. You know,"
-	line "just to chat!"
+	para "bet you'll have"
+	line "lots of stories!"
 	done
 
 IrwinNumberDeclinedText:
@@ -38,16 +38,17 @@ IrwinNumberDeclinedText:
 	line "I'm not dangerous!"
 
 	para "I just want to"
-	line "call and chat"
+	line "be in your"
 
-	para "about everything"
-	line "and nothing!"
+	para "corner, that's a"
+	line "cool thing, right?"
 	done
 
 IrwinPhoneFullText:
 	text "Your phone list is"
-	line "already full…"
+	line "already full?"
 
-	para "You must be really"
-	line "popular…"
+	para "Oh, you must be"
+	line "pretty popular!"
+	cont "Makes sense."
 	done
